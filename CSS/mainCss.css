@@ -73,6 +73,12 @@ a:hover{
 	*/
 }
 
+/* Adding with js to get navbar to stick */
+.naVStickyClass{
+	position: sticky;
+	top: 0;
+}
+
 /* NAV end ||| MAINpage start */
 
 /*.gridmain1{
