@@ -45,10 +45,12 @@ a:hover{
 	text-align: center;
 	align-items: center
 	background-color:green;
+	margin-left: 5%;
+	margin-right: 3%;
 
 }
 
-.navTextStyle{ 
+.navTextStyle, h1,h2,h3,h4,h5{ 
 	font-family: 'Raleway', sans-serif;
 	font-size: 35px;
 	color: black;
