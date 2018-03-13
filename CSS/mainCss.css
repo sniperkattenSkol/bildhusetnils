@@ -8,10 +8,13 @@ COLOUR
 
 */
 
+/*
+	Validerad 2018-03-13 13:35 @W3C Css validator;
+*/
 @media only screen and (max-width: 992px) {
 	#PhoneScreen{
 		grid-template-columns: auto auto auto;
-	};
+	}
 }
 
 body{
@@ -68,8 +71,7 @@ a:hover{
 	grid-template-columns: repeat(4,1fr);
 	grid-auto-rows: auto;
 	text-align: center;
-	align-items: center
-	background-color:#FB6542;
+	background-color: #375E97;
 	margin-left: 5%;
 	margin-right: 3%;
 }
@@ -152,8 +154,6 @@ Misslyckad ul-li navbar grej som bara blev sk*t på mobilaenheter,
 	grid-column-start: 2;
 	grid-column-end: 5;
 	background-color: #FFBB00;
-	height: ´100%;
-
 }
 .gridmain3{
 	grid-column-start: 5;
