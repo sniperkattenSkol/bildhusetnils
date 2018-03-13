@@ -12,13 +12,20 @@ COLOUR
 	Validerad 2018-03-13 13:35 @W3C Css validator;
 */
 @media only screen and (max-width: 992px) {
+	p {
+		font-size: 70px;
+	}
+
 	#PhoneScreen{
 		grid-template-columns: auto auto auto;
 	}
+
+	
 }
 
 body{
 	margin: 0;
+	letter-spacing: 0.01rem;
 }
 
 a{
@@ -121,7 +128,7 @@ Misslyckad ul-li navbar grej som bara blev sk*t på mobilaenheter,
 }
 
 .orange{
-	background-color:#FB6542;
+	background-color:#FB6542;f
 }
 
 #navOrange{
@@ -168,6 +175,10 @@ h1{
 
 p{
 	font-size: 25px;
+	text-align: justify;
+	text-justify: inter-word;
+	letter-spacing: normal;
+
 }
 
 .textbox{
@@ -209,7 +220,7 @@ p{
 .ulClass {
 	text-align: center;
 	list-style: none;
-	font-size: 25px;
+	font-size: 20px;
 }
 
 /* gOOgleMap */
