@@ -1,5 +1,6 @@
 
 //Javascript navbar stick to top
+/*
 window.onscroll = function() {navBarStickyFunction()};
 var navIdname = getElementById("navHead");
 var sticked = navIdname.offsetTop;
@@ -11,3 +12,4 @@ function navBarStickyFunction(){
 		navIdname.classList.remove("naVStickyClass");
 	}
 }
+*/
