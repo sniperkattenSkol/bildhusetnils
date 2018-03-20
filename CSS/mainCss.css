@@ -28,6 +28,12 @@ body{
 	letter-spacing: 0.01rem;
 }
 
+hr{
+	border: 0;
+    height: 5px;
+    background-image: linear-gradient(to right, #FFBB00, #FB6542, #FFBB00);
+}
+
 a{
 	text-decoration: none;
 	transition-timing-function: ease-in-out;
@@ -192,12 +198,12 @@ p{
 /*Text things end - Arrow to start; start */
 #Arrow{
 	text-decoration: none;
-	
+	color: #375E97;
 }
 
 #ArrowDiv{
 	font-size: 160px;
-	opacity: 0.5;
+	opacity: 0.8;
 	text-align: center;
 }
 
