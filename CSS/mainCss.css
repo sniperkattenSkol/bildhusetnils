@@ -28,6 +28,10 @@ body{
 	letter-spacing: 0.01rem;
 }
 
+li,ul{
+	font-size: 25px;
+}
+
 hr{
 	border: 0;
     height: 5px;
