@@ -50,6 +50,11 @@ a:hover{
 	color: white;
 }
 
+img{
+	width: 230px;
+	height: 280px;
+}
+
 /*--- */
 
 .mainContainer{
